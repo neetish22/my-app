@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 19 09:51:46 IST 2020
+http\://ilosvfd010\:8081/nexus/content/groups/public/.error=
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.apache\:apache\:pom\:21 from/to spring-milestones (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/apache/apache/21/apache-21.pom , ReasonPhrase\:Forbidden.
+@genproxy.amdocs.com\:8080>@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1582098706435
+@genproxy.amdocs.com\:8080>@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1582098706266
+https\://repo.maven.apache.org/maven2/.lastUpdated=1582098706740
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.apache\:apache\:pom\:21 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: Access denied to\: http\://repo.spring.io/snapshot/org/apache/apache/21/apache-21.pom , ReasonPhrase\:Forbidden.
+http\://ilosvfd010\:8081/nexus/content/groups/public/.lastUpdated=1582098706046

@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 19 09:51:53 IST 2020
+http\://ilosvfd010\:8081/nexus/content/groups/public/.error=
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.codehaus.plexus\:plexus-interpolation\:pom\:1.24 from/to spring-milestones (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.pom , ReasonPhrase\:Forbidden.
+@genproxy.amdocs.com\:8080>@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1582098713509
+@genproxy.amdocs.com\:8080>@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1582098713292
+https\://repo.maven.apache.org/maven2/.lastUpdated=1582098713955
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.codehaus.plexus\:plexus-interpolation\:pom\:1.24 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: Access denied to\: http\://repo.spring.io/snapshot/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.pom , ReasonPhrase\:Forbidden.
+http\://ilosvfd010\:8081/nexus/content/groups/public/.lastUpdated=1582098713125
